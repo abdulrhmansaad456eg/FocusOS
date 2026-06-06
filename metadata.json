@@ -1,0 +1,6 @@
+{
+  "name": "FocusOS",
+  "description": "A high-fidelity desktop productivity and focus assistant with app/site blocking, ambient audio synthesizer, custom focus pet, analytics, and Gemini AI coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
